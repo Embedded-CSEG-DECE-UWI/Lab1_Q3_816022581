@@ -1,0 +1,2144 @@
+=~=~=~=~=~=~=~=~=~=~=~= PuTTY log 2022.10.07 23:39:11 =~=~=~=~=~=~=~=~=~=~=~=
+$Ùc±Q±ÑaÖå[0;32mI (37249) main: *******************
+[0m
+[0;32mI (37250) main: ADC READING: 0
+[0m
+[0;32mI (37251) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (37253) main: error_count: 0
+[0m
+[0;32mI (37359) main: *******************
+[0m
+[0;32mI (37360) main: ADC READING: 0
+[0m
+[0;32mI (37361) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (37363) main: error_count: 0
+[0m
+[0;32mI (37469) main: *******************
+[0m
+[0;32mI (37470) main: ADC READING: 0
+[0m
+[0;32mI (37471) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (37473) main: error_count: 0
+[0m
+[0;32mI (37579) main: *******************
+[0m
+[0;32mI (37580) main: ADC READING: 0
+[0m
+[0;32mI (37581) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (37583) main: error_count: 0
+[0m
+[0;32mI (37689) main: *******************
+[0m
+[0;32mI (37690) main: ADC READING: 0
+[0m
+[0;32mI (37691) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (37693) main: error_count: 0
+[0m
+[0;32mI (37799) main: *******************
+[0m
+[0;32mI (37800) main: ADC READING: 0
+[0m
+[0;32mI (37801) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (37803) main: error_count: 0
+[0m
+[0;32mI (37909) main: *******************
+[0m
+[0;32mI (37910) main: ADC READING: 0
+[0m
+[0;32mI (37911) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (37913) main: error_count: 0
+[0m
+[0;32mI (38019) main: *******************
+[0m
+[0;32mI (38020) main: ADC READING: 0
+[0m
+[0;32mI (38021) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38023) main: error_count: 0
+[0m
+[0;32mI (38129) main: *******************
+[0m
+[0;32mI (38130) main: ADC READING: 0
+[0m
+[0;32mI (38131) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38133) main: error_count: 0
+[0m
+[0;32mI (38239) main: *******************
+[0m
+[0;32mI (38240) main: ADC READING: 0
+[0m
+[0;32mI (38241) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38243) main: error_count: 0
+[0m
+[0;32mI (38349) main: *******************
+[0m
+[0;32mI (38350) main: ADC READING: 0
+[0m
+[0;32mI (38351) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38353) main: error_count: 0
+[0m
+[0;32mI (38459) main: *******************
+[0m
+[0;32mI (38460) main: ADC READING: 0
+[0m
+[0;32mI (38461) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38463) main: error_count: 0
+[0m
+[0;32mI (38569) main: *******************
+[0m
+[0;32mI (38570) main: ADC READING: 0
+[0m
+[0;32mI (38571) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38573) main: error_count: 0
+[0m
+[0;32mI (38679) main: *******************
+[0m
+[0;32mI (38680) main: ADC READING: 0
+[0m
+[0;32mI (38681) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38683) main: error_count: 0
+[0m
+[0;32mI (38789) main: *******************
+[0m
+[0;32mI (38790) main: ADC READING: 0
+[0m
+[0;32mI (38791) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38793) main: error_count: 0
+[0m
+[0;32mI (38899) main: *******************
+[0m
+[0;32mI (38900) main: ADC READING: 0
+[0m
+[0;32mI (38901) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (38903) main: error_count: 0
+[0m
+[0;32mI (39009) main: *******************
+[0m
+[0;32mI (39010) main: ADC READING: 0
+[0m
+[0;32mI (39011) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39013) main: error_count: 0
+[0m
+[0;32mI (39119) main: *******************
+[0m
+[0;32mI (39120) main: ADC READING: 0
+[0m
+[0;32mI (39121) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39123) main: error_count: 0
+[0m
+[0;32mI (39229) main: *******************
+[0m
+[0;32mI (39230) main: ADC READING: 0
+[0m
+[0;32mI (39231) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39233) main: error_count: 0
+[0m
+[0;32mI (39339) main: *******************
+[0m
+[0;32mI (39340) main: ADC READING: 0
+[0m
+[0;32mI (39341) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39343) main: error_count: 0
+[0m
+[0;32mI (39449) main: *******************
+[0m
+[0;32mI (39450) main: ADC READING: 0
+[0m
+[0;32mI (39451) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39453) main: error_count: 0
+[0m
+[0;32mI (39559) main: *******************
+[0m
+[0;32mI (39560) main: ADC READING: 0
+[0m
+[0;32mI (39561) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39563) main: error_count: 0
+[0m
+[0;32mI (39669) main: *******************
+[0m
+[0;32mI (39670) main: ADC READING: 0
+[0m
+[0;32mI (39671) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39673) main: error_count: 0
+[0m
+[0;32mI (39779) main: *******************
+[0m
+[0;32mI (39780) main: ADC READING: 0
+[0m
+[0;32mI (39781) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39783) main: error_count: 0
+[0m
+[0;32mI (39889) main: *******************
+[0m
+[0;32mI (39890) main: ADC READING: 0
+[0m
+[0;32mI (39891) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (39893) main: error_count: 0
+[0m
+[0;32mI (39999) main: *******************
+[0m
+[0;32mI (40000) main: ADC READING: 0
+[0m
+[0;32mI (40001) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40003) main: error_count: 0
+[0m
+[0;32mI (40109) main: *******************
+[0m
+[0;32mI (40110) main: ADC READING: 0
+[0m
+[0;32mI (40111) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40113) main: error_count: 0
+[0m
+[0;32mI (40220) main: *******************
+[0m
+[0;32mI (40221) main: ADC READING: 0
+[0m
+[0;32mI (40222) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40224) main: error_count: 0
+[0m
+[0;32mI (40330) main: *******************
+[0m
+[0;32mI (40331) main: ADC READING: 0
+[0m
+[0;32mI (40332) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40334) main: error_count: 0
+[0m
+[0;32mI (40440) main: *******************
+[0m
+[0;32mI (40441) main: ADC READING: 0
+[0m
+[0;32mI (40442) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40444) main: error_count: 0
+[0m
+[0;32mI (40550) main: *******************
+[0m
+[0;32mI (40551) main: ADC READING: 0
+[0m
+[0;32mI (40552) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40554) main: error_count: 0
+[0m
+[0;32mI (40660) main: *******************
+[0m
+[0;32mI (40661) main: ADC READING: 0
+[0m
+[0;32mI (40662) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40664) main: error_count: 0
+[0m
+[0;32mI (40770) main: *******************
+[0m
+[0;32mI (40771) main: ADC READING: 0
+[0m
+[0;32mI (40772) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40774) main: error_count: 0
+[0m
+[0;32mI (40880) main: *******************
+[0m
+[0;32mI (40881) main: ADC READING: 0
+[0m
+[0;32mI (40882) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (40884) main:þ
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x40100000, len 7052, room 16 
+tail 12
+chksum 0x3e
+ho 0 tail 12 room 4
+load 0x3ffe8408, len 24, room 12 
+tail 12
+chksum 0x87
+ho 0 tail 12 room 4
+load 0x3ffe8420, len 3324, room 12 
+tail 0
+chksum 0x19
+csum 0x19
+[0;32mI (54) boot: ESP-IDF v3.4-65-gea598f11 2nd stage bootloader[0m
+[0;32mI (54) boot: compile time 18:26:25[0m
+[0;32mI (55) boot: SPI Speed      : 40MHz[0m
+[0;32mI (61) boot: SPI Mode       : DOUT[0m
+[0;32mI (67) boot: SPI Flash Size : 1MB[0m
+[0;32mI (73) boot: Partition Table:[0m
+[0;32mI (79) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (90) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (101) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (113) boot:  2 factory          factory app      00 00 00010000 000f0000[0m
+[0;32mI (125) boot: End of partition table[0m
+[0;32mI (131) esp_image: segment 0: paddr=0x00010010 vaddr=0x40210010 size=0x16e28 ( 93736) map[0m
+[0;32mI (186) esp_image: segment 1: paddr=0x00026e40 vaddr=0x40226e38 size=0x05d2c ( 23852) map[0m
+[0;32mI (197) esp_image: segment 2: paddr=0x0002cb74 vaddr=0x3ffe8000 size=0x003dc (   988) load[0m
+[0;32mI (198) esp_image: segment 3: paddr=0x0002cf58 vaddr=0x40100000 size=0x00080 (   128) load[0m
+[0;32mI (211) esp_image: segment 4: paddr=0x0002cfe0 vaddr=0x40100080 size=0x04558 ( 17752) load[0m
+[0;32mI (231) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (346) gpio: GPIO[0]| InputEn: 0| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (349) gpio: GPIO[2]| InputEn: 0| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (361) main: *******************
+[0m
+[0;32mI (366) main: ADC READING: 0
+[0m
+[0;32mI (372) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (378) main: error_count: 0
+[0m
+[0;32mI (476) main: *******************
+[0m
+[0;32mI (477) main: ADC READING: 0
+[0m
+[0;32mI (478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (479) main: error_count: 0
+[0m
+[0;32mI (576) main: *******************
+[0m
+[0;32mI (577) main: ADC READING: 0
+[0m
+[0;32mI (578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (579) main: error_count: 0
+[0m
+[0;32mI (676) main: *******************
+[0m
+[0;32mI (677) main: ADC READING: 0
+[0m
+[0;32mI (678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (679) main: error_count: 0
+[0m
+[0;32mI (776) main: *******************
+[0m
+[0;32mI (777) main: ADC READING: 0
+[0m
+[0;32mI (778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (779) main: error_count: 0
+[0m
+[0;32mI (876) main: *******************
+[0m
+[0;32mI (877) main: ADC READING: 0
+[0m
+[0;32mI (878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (879) main: error_count: 0
+[0m
+[0;32mI (976) main: *******************
+[0m
+[0;32mI (977) main: ADC READING: 0
+[0m
+[0;32mI (978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (979) main: error_count: 0
+[0m
+[0;32mI (1076) main: *******************
+[0m
+[0;32mI (1077) main: ADC READING: 0
+[0m
+[0;32mI (1078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1079) main: error_count: 0
+[0m
+[0;32mI (1176) main: *******************
+[0m
+[0;32mI (1177) main: ADC READING: 0
+[0m
+[0;32mI (1178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1179) main: error_count: 0
+[0m
+[0;32mI (1276) main: *******************
+[0m
+[0;32mI (1277) main: ADC READING: 0
+[0m
+[0;32mI (1278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1279) main: error_count: 0
+[0m
+[0;32mI (1376) main: *******************
+[0m
+[0;32mI (1377) main: ADC READING: 0
+[0m
+[0;32mI (1378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1379) main: error_count: 0
+[0m
+[0;32mI (1476) main: *******************
+[0m
+[0;32mI (1477) main: ADC READING: 0
+[0m
+[0;32mI (1478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1479) main: error_count: 0
+[0m
+[0;32mI (1576) main: *******************
+[0m
+[0;32mI (1577) main: ADC READING: 0
+[0m
+[0;32mI (1578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1579) main: error_count: 0
+[0m
+[0;32mI (1676) main: *******************
+[0m
+[0;32mI (1677) main: ADC READING: 0
+[0m
+[0;32mI (1678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1679) main: error_count: 0
+[0m
+[0;32mI (1776) main: *******************
+[0m
+[0;32mI (1777) main: ADC READING: 0
+[0m
+[0;32mI (1778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1779) main: error_count: 0
+[0m
+[0;32mI (1876) main: *******************
+[0m
+[0;32mI (1877) main: ADC READING: 0
+[0m
+[0;32mI (1878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1879) main: error_count: 0
+[0m
+[0;32mI (1976) main: *******************
+[0m
+[0;32mI (1977) main: ADC READING: 0
+[0m
+[0;32mI (1978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1979) main: error_count: 0
+[0m
+[0;32mI (2076) main: *******************
+[0m
+[0;32mI (2077) main: ADC READING: 0
+[0m
+[0;32mI (2078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2079) main: error_count: 0
+[0m
+[0;32mI (2176) main: *******************
+[0m
+[0;32mI (2177) main: ADC READING: 0
+[0m
+[0;32mI (2178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2179) main: error_count: 0
+[0m
+[0;32mI (2276) main: *******************
+[0m
+[0;32mI (2277) main: ADC READING: 0
+[0m
+[0;32mI (2278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2279) main: error_count: 0
+[0m
+[0;32mI (2376) main: *******************
+[0m
+[0;32mI (2377) main: ADC READING: 0
+[0m
+[0;32mI (2378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2379) main: error_count: 0
+[0m
+[0;32mI (2476) main: *******************
+[0m
+[0;32mI (2477) main: ADC READING: 0
+[0m
+[0;32mI (2478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2479) main: error_count: 0
+[0m
+[0;32mI (2576) main: *******************
+[0m
+[0;32mI (2577) main: ADC READING: 0
+[0m
+[0;32mI (2578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2579) main: error_count: 0
+[0m
+[0;32mI (2676) main: *******************
+[0m
+[0;32mI (2677) main: ADC READING: 0
+[0m
+[0;32mI (2678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2679) main: error_count: 0
+[0m
+[0;32mI (2776) main: *******************
+[0m
+[0;32mI (2777) main: ADC READING: 0
+[0m
+[0;32mI (2778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2779) main: error_count: 0
+[0m
+[0;32mI (2876) main: *******************
+[0m
+[0;32mI (2877) main: ADC READING: 0
+[0m
+[0;32mI (2878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2879) main: error_count: 0
+[0m
+[0;32mI (2976) main: *******************
+[0m
+[0;32mI (2977) main: ADC READING: 0
+[0m
+[0;32mI (2978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2979) main: error_count: 0
+[0m
+[0;32mI (3076) main: *******************
+[0m
+[0;32mI (3077) main: ADC READING: 0
+[0m
+[0;32mI (3078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3079) main: error_count: 0
+[0m
+[0;32mI (3176) main: *******************
+[0m
+[0;32mI (3177) main: ADC READING: 0
+[0m
+[0;32mI (3178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3179) main: error_count: 0
+[0m
+[0;32mI (3276) main: *******************
+[0m
+[0;32mI (3277) main: ADC READING: 0
+[0m
+[0;32mI (3278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3279) main: error_count: 0
+[0m
+[0;32mI (3376) main: *******************
+[0m
+[0;32mI (3377) main: ADC READING: 0
+[0m
+[0;32mI (3378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3379) main: error_count: 0
+[0m
+[0;32mI (3476) main: *******************
+[0m
+[0;32mI (3477) main: ADC READING: 0
+[0m
+[0;32mI (3478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3479) main: error_count: 0
+[0m
+[0;32mI (3576) main: *******************
+[0m
+[0;32mI (3577) main: ADC READING: 0
+[0m
+[0;32mI (3578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3579) main: error_count: 0
+[0m
+[0;31mE (3676) main: Error ESP!OK 
+[0m
+[0;31mE (3677) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (3776) main: Error ESP!OK 
+[0m
+[0;31mE (3777) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (3876) main: Error ESP!OK 
+[0m
+[0;31mE (3877) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (3976) main: Error ESP!OK 
+[0m
+[0;31mE (3977) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4076) main: Error ESP!OK 
+[0m
+[0;31mE (4077) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4176) main: Error ESP!OK 
+[0m
+[0;31mE (4177) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4276) main: Error ESP!OK 
+[0m
+[0;31mE (4277) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4376) main: Error ESP!OK 
+[0m
+[0;31mE (4377) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4476) main: Error ESP!OK 
+[0m
+[0;31mE (4477) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4576) main: Error ESP!OK 
+[0m
+[0;31mE (4577) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4676) main: Error ESP!OK 
+[0m
+[0;31mE (4677) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4776) main: Error ESP!OK 
+[0m
+[0;31mE (4777) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4876) main: Error ESP!OK 
+[0m
+[0;31mE (4877) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (4976) main: Error ESP!OK 
+[0m
+[0;31mE (4977) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (5076) main: Error ESP!OK 
+[0m
+[0;31mE (5077) main: No ack, sensor not connected...skip...
+[0m
+[0;32mI (5176) main: *******************
+[0m
+[0;32mI (5177) main: ADC READING: 0
+[0m
+[0;32mI (5178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5179) main: error_count: 0
+[0m
+[0;32mI (5276) main: *******************
+[0m
+[0;32mI (5277) main: ADC READING: 0
+[0m
+[0;32mI (5278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5279) main: error_count: 0
+[0m
+[0;32mI (5376) main: *******************
+[0m
+[0;32mI (5377) main: ADC READING: 0
+[0m
+[0;32mI (5378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5379) main: error_count: 0
+[0m
+[0;32mI (5476) main: *******************
+[0m
+[0;32mI (5477) main: ADC READING: 0
+[0m
+[0;32mI (5478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5479) main: error_count: 0
+[0m
+[0;32mI (5576) main: *******************
+[0m
+[0;32mI (5577) main: ADC READING: 0
+[0m
+[0;32mI (5578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5579) main: error_count: 0
+[0m
+[0;32mI (5676) main: *******************
+[0m
+[0;32mI (5677) main: ADC READING: 0
+[0m
+[0;32mI (5678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5679) main: error_count: 0
+[0m
+[0;32mI (5776) main: *******************
+[0m
+[0;32mI (5777) main: ADC READING: 0
+[0m
+[0;32mI (5778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5779) main: error_count: 0
+[0m
+[0;32mI (5876) main: *******************
+[0m
+[0;32mI (5877) main: ADC READING: 0
+[0m
+[0;32mI (5878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5879) main: error_count: 0
+[0m
+[0;32mI (5976) main: *******************
+[0m
+[0;32mI (5977) main: ADC READING: 0
+[0m
+[0;32mI (5978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5979) main: error_count: 0
+[0m
+[0;32mI (6076) main: *******************
+[0m
+[0;32mI (6077) main: ADC READING: 0
+[0m
+[0;32mI (6078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6079) main: error_count: 0
+[0m
+[0;32mI (6176) main: *******************
+[0m
+[0;32mI (6177) main: ADC READING: 0
+[0m
+[0;32mI (6178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6179) main: error_count: 0
+[0m
+[0;32mI (6276) main: *******************
+[0m
+[0;32mI (6277) main: ADC READING: 0
+[0m
+[0;32mI (6278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6279) main: error_count: 0
+[0m
+[0;32mI (6376) main: *******************
+[0m
+[0;32mI (6377) main: ADC READING: 0
+[0m
+[0;32mI (6378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6379) main: error_count: 0
+[0m
+[0;32mI (6476) main: *******************
+[0m
+[0;32mI (6477) main: ADC READING: 0
+[0m
+[0;32mI (6478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6479) main: error_count: 0
+[0m
+[0;32mI (6576) main: *******************
+[0m
+[0;32mI (6577) main: ADC READING: 0
+[0m
+[0;32mI (6578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6579) main: error_count: 0
+[0m
+[0;31mE (6676) main: Error ESP!OK 
+[0m
+[0;31mE (6677) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (6776) main: Error ESP!OK 
+[0m
+[0;31mE (6777) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (6876) main: Error ESP!OK 
+[0m
+[0;31mE (6877) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (6976) main: Error ESP!OK 
+[0m
+[0;31mE (6977) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (7076) main: Error ESP!OK 
+[0m
+[0;31mE (7077) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (7176) main: Error ESP!OK 
+[0m
+[0;31mE (7177) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (7276) main: Error ESP!OK 
+[0m
+[0;31mE (7277) main: No ack, sensor not connected...skip...
+[0m
+[0;31mE (7376) main: Error ESP!OK 
+[0m
+[0;31mE (7377) main: No ack, sensor not connected...skip...
+[0m
+[0;32mI (7476) main: *******************
+[0m
+[0;32mI (7477) main: ADC READING: 0
+[0m
+[0;32mI (7478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7479) main: error_count: 0
+[0m
+[0;32mI (7576) main: *******************
+[0m
+[0;32mI (7577) main: ADC READING: 0
+[0m
+[0;32mI (7578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7579) main: error_count: 0
+[0m
+[0;32mI (7676) main: *******************
+[0m
+[0;32mI (7677) main: ADC READING: 0
+[0m
+[0;32mI (7678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7679) main: error_count: 0
+[0m
+[0;32mI (7776) main: *******************
+[0m
+[0;32mI (7777) main: ADC READING: 0
+[0m
+[0;32mI (7778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7779) main: error_count: 0
+[0m
+[0;32mI (7876) main: *******************
+[0m
+[0;32mI (7877) main: ADC READING: 0
+[0m
+[0;32mI (7878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7879) main: error_count: 0
+[0m
+[0;32mI (7976) main: *******************
+[0m
+[0;32mI (7977) main: ADC READING: 0
+[0m
+[0;32mI (7978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7979) main: error_count: 0
+[0m
+[0;32mI (8076) main: *******************
+[0m
+[0;32mI (8077) main: ADC READING: 0
+[0m
+[0;32mI (8078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8079) main: error_count: 0
+[0m
+[0;32mI (8176) main: *******************
+[0m
+[0;32mI (8177) main: ADC READING: 0
+[0m
+[0;32mI (8178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8179) main: error_count: 0
+[0m
+[0;32mI (8276) main: *******************
+[0m
+[0;32mI (8277) main: ADC READING: 0
+[0m
+[0;32mI (8278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8279) main: error_count: 0
+[0m
+[0;32mI (8376) main: *******************
+[0m
+[0;32mI (8377) main: ADC READING: 0
+[0m
+[0;32mI (8378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8379) main: error_count: 0
+[0m
+[0;32mI (8476) main: *******************
+[0m
+[0;32mI (8477) main: ADC READING: 0
+[0m
+[0;32mI (8478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8479) main: error_count: 0
+[0m
+[0;32mI (8576) main: *******************
+[0m
+[0;32mI (8577) main: ADC READING: 0
+[0m
+[0;32mI (8578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8579) main: error_count: 0
+[0m
+[0;32mI (8676) main: *******************
+[0m
+[0;32mI (8677) main: ADC READING: 0
+[0m
+[0;32mI (8678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8679) main: error_count: 0
+[0m
+[0;32mI (8776) main: *******************
+[0m
+[0;32mI (8777) main: ADC READING: 0
+[0m
+[0;32mI (8778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8779) main: error_count: 0
+[0m
+[0;32mI (8876) main: *******************
+[0m
+[0;32mI (8877) main: ADC READING: 0
+[0m
+[0;32mI (8878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8879) main: error_count: 0
+[0m
+[0;32mI (8976) main: *******************
+[0m
+[0;32mI (8977) main: ADC READING: 0
+[0m
+[0;32mI (8978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8979) main: error_count: 0
+[0m
+[0;32mI (9076) main: *******************
+[0m
+[0;32mI (9077) main: ADC READING: 0
+[0m
+[0;32mI (9078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9079) main: error_count: 0
+[0m
+[0;32mI (9176) main: *******************
+[0m
+[0;32mI (9177) main: ADC READING: 0
+[0m
+[0;32mI (9178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9179) main: error_count: 0
+[0m
+[0;32mI (9276) main: *******************
+[0m
+[0;32mI (9277) main: ADC READING: 0
+[0m
+[0;32mI (9278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9279) main: error_count: 0
+[0m
+[0;32mI (9376) main: *******************
+[0m
+[0;32mI (9377) main: ADC READING: 0
+[0m
+[0;32mI (9378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9379) main: error_count: 0
+[0m
+[0;32mI (9476) main: *******************
+[0m
+[0;32mI (9477) main: ADC READING: 0
+[0m
+[0;32mI (9478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9479) main: error_count: 0
+[0m
+[0;32mI (9576) main: *******************
+[0m
+[0;32mI (9577) main: ADC READING: 0
+[0m
+[0;32mI (9578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9579) main: error_count: 0
+[0m
+[0;32mI (9676) main: *******************
+[0m
+[0;32mI (9677) main: ADC READING: 0
+[0m
+[0;32mI (9678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9679) main: error_count: 0
+[0m
+[0;32mI (9776) main: *******************
+[0m
+[0;32mI (9777) main: ADC READING: 0
+[0m
+[0;32mI (9778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9779) main: error_count: 0
+[0m
+[0;32mI (9876) main: *******************
+[0m
+[0;32mI (9877) main: ADC READING: 0
+[0m
+[0;32mI (9878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9879) main: error_count: 0
+[0m
+[0;32mI (9976) main: *******************
+[0m
+[0;32mI (9977) main: ADC READING: 0
+[0m
+[0;32mI (9978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9979) main: error_count: 0
+[0m
+[0;32mI (10076) main: *******************
+[0m
+[0;32mI (10077) main: ADC READING: 0
+[0m
+[0;32mI (10078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10080) main: error_count: 0
+[0m
+[0;32mI (10186) main: *******************
+[0m
+[0;32mI (10187) main: ADC READING: 0
+[0m
+[0;32mI (10188) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10190) main: error_count: 0
+[0m
+[0;32mI (10297) main: *******************
+[0m
+[0;32mI (10298) main: ADC READING: 0
+[0m
+[0;32mI (10299) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10301) main: error_count: 0
+[0m
+[0;32mI (10407) main: *******************
+[0m
+[0;32mI (10408) main: ADC READING: 0
+[0m
+[0;32mI (10409) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10411) main: error_count: 0
+[0m
+[0;32mI (10517) main: *******************
+[0m
+[0;32mI (10518) main: ADC READING: 0
+[0m
+[0;32mI (10519) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10521) main: error_count: 0
+[0m
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x40100000, len 7052, room 16 
+tail 12
+chksum 0x3e
+ho 0 tail 12 room 4
+load 0x3ffe8408, len 24, room 12 
+tail 12
+chksum 0x87
+ho 0 tail 12 room 4
+load 0x3ffe8420, len 3324, room 12 
+tail 0
+chksum 0x19
+csum 0x19
+[0;32mI (54) boot: ESP-IDF v3.4-65-gea598f11 2nd stage bootloader[0m
+[0;32mI (54) boot: compile time 18:26:25[0m
+[0;32mI (55) boot: SPI Speed      : 40MHz[0m
+[0;32mI (61) boot: SPI Mode       : DOUT[0m
+[0;32mI (67) boot: SPI Flash Size : 1MB[0m
+[0;32mI (73) boot: Partition Table:[0m
+[0;32mI (79) boot: ## Label            Usage          Type ST Offset   Length[0m
+[0;32mI (90) boot:  0 nvs              WiFi data        01 02 00009000 00006000[0m
+[0;32mI (101) boot:  1 phy_init         RF data          01 01 0000f000 00001000[0m
+[0;32mI (113) boot:  2 factory          factory app      00 00 00010000 000f0000[0m
+[0;32mI (125) boot: End of partition table[0m
+[0;32mI (131) esp_image: segment 0: paddr=0x00010010 vaddr=0x40210010 size=0x16e28 ( 93736) map[0m
+[0;32mI (186) esp_image: segment 1: paddr=0x00026e40 vaddr=0x40226e38 size=0x05d2c ( 23852) map[0m
+[0;32mI (197) esp_image: segment 2: paddr=0x0002cb74 vaddr=0x3ffe8000 size=0x003dc (   988) load[0m
+[0;32mI (198) esp_image: segment 3: paddr=0x0002cf58 vaddr=0x40100000 size=0x00080 (   128) load[0m
+[0;32mI (211) esp_image: segment 4: paddr=0x0002cfe0 vaddr=0x40100080 size=0x04558 ( 17752) load[0m
+[0;32mI (231) boot: Loaded app from partition at offset 0x10000[0m
+[0;32mI (346) gpio: GPIO[0]| InputEn: 0| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (349) gpio: GPIO[2]| InputEn: 0| OutputEn: 1| OpenDrain: 1| Pullup: 1| Pulldown: 0| Intr:0 [0m
+[0;32mI (361) main: *******************
+[0m
+[0;32mI (366) main: ADC READING: 0
+[0m
+[0;32mI (372) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (378) main: error_count: 0
+[0m
+[0;32mI (476) main: *******************
+[0m
+[0;32mI (477) main: ADC READING: 0
+[0m
+[0;32mI (478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (479) main: error_count: 0
+[0m
+[0;32mI (576) main: *******************
+[0m
+[0;32mI (577) main: ADC READING: 0
+[0m
+[0;32mI (578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (579) main: error_count: 0
+[0m
+[0;32mI (676) main: *******************
+[0m
+[0;32mI (677) main: ADC READING: 0
+[0m
+[0;32mI (678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (679) main: error_count: 0
+[0m
+[0;32mI (776) main: *******************
+[0m
+[0;32mI (777) main: ADC READING: 0
+[0m
+[0;32mI (778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (779) main: error_count: 0
+[0m
+[0;32mI (876) main: *******************
+[0m
+[0;32mI (877) main: ADC READING: 0
+[0m
+[0;32mI (878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (879) main: error_count: 0
+[0m
+[0;32mI (976) main: *******************
+[0m
+[0;32mI (977) main: ADC READING: 0
+[0m
+[0;32mI (978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (979) main: error_count: 0
+[0m
+[0;32mI (1076) main: *******************
+[0m
+[0;32mI (1077) main: ADC READING: 0
+[0m
+[0;32mI (1078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1079) main: error_count: 0
+[0m
+[0;32mI (1176) main: *******************
+[0m
+[0;32mI (1177) main: ADC READING: 0
+[0m
+[0;32mI (1178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1179) main: error_count: 0
+[0m
+[0;32mI (1276) main: *******************
+[0m
+[0;32mI (1277) main: ADC READING: 0
+[0m
+[0;32mI (1278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1279) main: error_count: 0
+[0m
+[0;32mI (1376) main: *******************
+[0m
+[0;32mI (1377) main: ADC READING: 0
+[0m
+[0;32mI (1378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1379) main: error_count: 0
+[0m
+[0;32mI (1476) main: *******************
+[0m
+[0;32mI (1477) main: ADC READING: 0
+[0m
+[0;32mI (1478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1479) main: error_count: 0
+[0m
+[0;32mI (1576) main: *******************
+[0m
+[0;32mI (1577) main: ADC READING: 0
+[0m
+[0;32mI (1578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1579) main: error_count: 0
+[0m
+[0;32mI (1676) main: *******************
+[0m
+[0;32mI (1677) main: ADC READING: 0
+[0m
+[0;32mI (1678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1679) main: error_count: 0
+[0m
+[0;32mI (1776) main: *******************
+[0m
+[0;32mI (1777) main: ADC READING: 0
+[0m
+[0;32mI (1778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1779) main: error_count: 0
+[0m
+[0;32mI (1876) main: *******************
+[0m
+[0;32mI (1877) main: ADC READING: 0
+[0m
+[0;32mI (1878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1879) main: error_count: 0
+[0m
+[0;32mI (1976) main: *******************
+[0m
+[0;32mI (1977) main: ADC READING: 0
+[0m
+[0;32mI (1978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (1979) main: error_count: 0
+[0m
+[0;32mI (2076) main: *******************
+[0m
+[0;32mI (2077) main: ADC READING: 0
+[0m
+[0;32mI (2078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2079) main: error_count: 0
+[0m
+[0;32mI (2176) main: *******************
+[0m
+[0;32mI (2177) main: ADC READING: 0
+[0m
+[0;32mI (2178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2179) main: error_count: 0
+[0m
+[0;32mI (2276) main: *******************
+[0m
+[0;32mI (2277) main: ADC READING: 0
+[0m
+[0;32mI (2278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2279) main: error_count: 0
+[0m
+[0;32mI (2376) main: *******************
+[0m
+[0;32mI (2377) main: ADC READING: 0
+[0m
+[0;32mI (2378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2379) main: error_count: 0
+[0m
+[0;32mI (2476) main: *******************
+[0m
+[0;32mI (2477) main: ADC READING: 0
+[0m
+[0;32mI (2478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2479) main: error_count: 0
+[0m
+[0;32mI (2576) main: *******************
+[0m
+[0;32mI (2577) main: ADC READING: 0
+[0m
+[0;32mI (2578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2579) main: error_count: 0
+[0m
+[0;32mI (2676) main: *******************
+[0m
+[0;32mI (2677) main: ADC READING: 0
+[0m
+[0;32mI (2678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2679) main: error_count: 0
+[0m
+[0;32mI (2776) main: *******************
+[0m
+[0;32mI (2777) main: ADC READING: 0
+[0m
+[0;32mI (2778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2779) main: error_count: 0
+[0m
+[0;32mI (2876) main: *******************
+[0m
+[0;32mI (2877) main: ADC READING: 0
+[0m
+[0;32mI (2878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2879) main: error_count: 0
+[0m
+[0;32mI (2976) main: *******************
+[0m
+[0;32mI (2977) main: ADC READING: 0
+[0m
+[0;32mI (2978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (2979) main: error_count: 0
+[0m
+[0;32mI (3076) main: *******************
+[0m
+[0;32mI (3077) main: ADC READING: 0
+[0m
+[0;32mI (3078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3079) main: error_count: 0
+[0m
+[0;32mI (3176) main: *******************
+[0m
+[0;32mI (3177) main: ADC READING: 0
+[0m
+[0;32mI (3178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3179) main: error_count: 0
+[0m
+[0;32mI (3276) main: *******************
+[0m
+[0;32mI (3277) main: ADC READING: 0
+[0m
+[0;32mI (3278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3279) main: error_count: 0
+[0m
+[0;32mI (3376) main: *******************
+[0m
+[0;32mI (3377) main: ADC READING: 0
+[0m
+[0;32mI (3378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3379) main: error_count: 0
+[0m
+[0;32mI (3476) main: *******************
+[0m
+[0;32mI (3477) main: ADC READING: 0
+[0m
+[0;32mI (3478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3479) main: error_count: 0
+[0m
+[0;32mI (3576) main: *******************
+[0m
+[0;32mI (3577) main: ADC READING: 0
+[0m
+[0;32mI (3578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3579) main: error_count: 0
+[0m
+[0;32mI (3676) main: *******************
+[0m
+[0;32mI (3677) main: ADC READING: 0
+[0m
+[0;32mI (3678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3679) main: error_count: 0
+[0m
+[0;32mI (3776) main: *******************
+[0m
+[0;32mI (3777) main: ADC READING: 0
+[0m
+[0;32mI (3778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3779) main: error_count: 0
+[0m
+[0;32mI (3876) main: *******************
+[0m
+[0;32mI (3877) main: ADC READING: 0
+[0m
+[0;32mI (3878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3879) main: error_count: 0
+[0m
+[0;32mI (3976) main: *******************
+[0m
+[0;32mI (3977) main: ADC READING: 0
+[0m
+[0;32mI (3978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (3979) main: error_count: 0
+[0m
+[0;32mI (4076) main: *******************
+[0m
+[0;32mI (4077) main: ADC READING: 0
+[0m
+[0;32mI (4078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4079) main: error_count: 0
+[0m
+[0;32mI (4176) main: *******************
+[0m
+[0;32mI (4177) main: ADC READING: 0
+[0m
+[0;32mI (4178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4179) main: error_count: 0
+[0m
+[0;32mI (4276) main: *******************
+[0m
+[0;32mI (4277) main: ADC READING: 0
+[0m
+[0;32mI (4278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4279) main: error_count: 0
+[0m
+[0;32mI (4376) main: *******************
+[0m
+[0;32mI (4377) main: ADC READING: 0
+[0m
+[0;32mI (4378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4379) main: error_count: 0
+[0m
+[0;32mI (4476) main: *******************
+[0m
+[0;32mI (4477) main: ADC READING: 0
+[0m
+[0;32mI (4478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4479) main: error_count: 0
+[0m
+[0;32mI (4576) main: *******************
+[0m
+[0;32mI (4577) main: ADC READING: 0
+[0m
+[0;32mI (4578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4579) main: error_count: 0
+[0m
+[0;32mI (4676) main: *******************
+[0m
+[0;32mI (4677) main: ADC READING: 0
+[0m
+[0;32mI (4678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4679) main: error_count: 0
+[0m
+[0;32mI (4776) main: *******************
+[0m
+[0;32mI (4777) main: ADC READING: 0
+[0m
+[0;32mI (4778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4779) main: error_count: 0
+[0m
+[0;32mI (4876) main: *******************
+[0m
+[0;32mI (4877) main: ADC READING: 0
+[0m
+[0;32mI (4878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4879) main: error_count: 0
+[0m
+[0;32mI (4976) main: *******************
+[0m
+[0;32mI (4977) main: ADC READING: 0
+[0m
+[0;32mI (4978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (4979) main: error_count: 0
+[0m
+[0;32mI (5076) main: *******************
+[0m
+[0;32mI (5077) main: ADC READING: 0
+[0m
+[0;32mI (5078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5079) main: error_count: 0
+[0m
+[0;32mI (5176) main: *******************
+[0m
+[0;32mI (5177) main: ADC READING: 0
+[0m
+[0;32mI (5178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5179) main: error_count: 0
+[0m
+[0;32mI (5276) main: *******************
+[0m
+[0;32mI (5277) main: ADC READING: 0
+[0m
+[0;32mI (5278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5279) main: error_count: 0
+[0m
+[0;32mI (5376) main: *******************
+[0m
+[0;32mI (5377) main: ADC READING: 0
+[0m
+[0;32mI (5378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5379) main: error_count: 0
+[0m
+[0;32mI (5476) main: *******************
+[0m
+[0;32mI (5477) main: ADC READING: 0
+[0m
+[0;32mI (5478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5479) main: error_count: 0
+[0m
+[0;32mI (5576) main: *******************
+[0m
+[0;32mI (5577) main: ADC READING: 0
+[0m
+[0;32mI (5578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5579) main: error_count: 0
+[0m
+[0;32mI (5676) main: *******************
+[0m
+[0;32mI (5677) main: ADC READING: 0
+[0m
+[0;32mI (5678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5679) main: error_count: 0
+[0m
+[0;32mI (5776) main: *******************
+[0m
+[0;32mI (5777) main: ADC READING: 0
+[0m
+[0;32mI (5778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5779) main: error_count: 0
+[0m
+[0;32mI (5876) main: *******************
+[0m
+[0;32mI (5877) main: ADC READING: 0
+[0m
+[0;32mI (5878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5879) main: error_count: 0
+[0m
+[0;32mI (5976) main: *******************
+[0m
+[0;32mI (5977) main: ADC READING: 0
+[0m
+[0;32mI (5978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (5979) main: error_count: 0
+[0m
+[0;32mI (6076) main: *******************
+[0m
+[0;32mI (6077) main: ADC READING: 0
+[0m
+[0;32mI (6078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6079) main: error_count: 0
+[0m
+[0;32mI (6176) main: *******************
+[0m
+[0;32mI (6177) main: ADC READING: 0
+[0m
+[0;32mI (6178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6179) main: error_count: 0
+[0m
+[0;32mI (6276) main: *******************
+[0m
+[0;32mI (6277) main: ADC READING: 0
+[0m
+[0;32mI (6278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6279) main: error_count: 0
+[0m
+[0;32mI (6376) main: *******************
+[0m
+[0;32mI (6377) main: ADC READING: 0
+[0m
+[0;32mI (6378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6379) main: error_count: 0
+[0m
+[0;32mI (6476) main: *******************
+[0m
+[0;32mI (6477) main: ADC READING: 0
+[0m
+[0;32mI (6478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6479) main: error_count: 0
+[0m
+[0;32mI (6576) main: *******************
+[0m
+[0;32mI (6577) main: ADC READING: 0
+[0m
+[0;32mI (6578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6579) main: error_count: 0
+[0m
+[0;32mI (6676) main: *******************
+[0m
+[0;32mI (6677) main: ADC READING: 0
+[0m
+[0;32mI (6678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6679) main: error_count: 0
+[0m
+[0;32mI (6776) main: *******************
+[0m
+[0;32mI (6777) main: ADC READING: 0
+[0m
+[0;32mI (6778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6779) main: error_count: 0
+[0m
+[0;32mI (6876) main: *******************
+[0m
+[0;32mI (6877) main: ADC READING: 0
+[0m
+[0;32mI (6878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6879) main: error_count: 0
+[0m
+[0;32mI (6976) main: *******************
+[0m
+[0;32mI (6977) main: ADC READING: 0
+[0m
+[0;32mI (6978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (6979) main: error_count: 0
+[0m
+[0;32mI (7076) main: *******************
+[0m
+[0;32mI (7077) main: ADC READING: 0
+[0m
+[0;32mI (7078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7079) main: error_count: 0
+[0m
+[0;32mI (7176) main: *******************
+[0m
+[0;32mI (7177) main: ADC READING: 0
+[0m
+[0;32mI (7178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7179) main: error_count: 0
+[0m
+[0;32mI (7276) main: *******************
+[0m
+[0;32mI (7277) main: ADC READING: 0
+[0m
+[0;32mI (7278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7279) main: error_count: 0
+[0m
+[0;32mI (7376) main: *******************
+[0m
+[0;32mI (7377) main: ADC READING: 0
+[0m
+[0;32mI (7378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7379) main: error_count: 0
+[0m
+[0;32mI (7476) main: *******************
+[0m
+[0;32mI (7477) main: ADC READING: 0
+[0m
+[0;32mI (7478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7479) main: error_count: 0
+[0m
+[0;32mI (7576) main: *******************
+[0m
+[0;32mI (7577) main: ADC READING: 0
+[0m
+[0;32mI (7578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7579) main: error_count: 0
+[0m
+[0;32mI (7676) main: *******************
+[0m
+[0;32mI (7677) main: ADC READING: 0
+[0m
+[0;32mI (7678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7679) main: error_count: 0
+[0m
+[0;32mI (7776) main: *******************
+[0m
+[0;32mI (7777) main: ADC READING: 0
+[0m
+[0;32mI (7778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7779) main: error_count: 0
+[0m
+[0;32mI (7876) main: *******************
+[0m
+[0;32mI (7877) main: ADC READING: 0
+[0m
+[0;32mI (7878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7879) main: error_count: 0
+[0m
+[0;32mI (7976) main: *******************
+[0m
+[0;32mI (7977) main: ADC READING: 0
+[0m
+[0;32mI (7978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (7979) main: error_count: 0
+[0m
+[0;32mI (8076) main: *******************
+[0m
+[0;32mI (8077) main: ADC READING: 0
+[0m
+[0;32mI (8078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8079) main: error_count: 0
+[0m
+[0;32mI (8176) main: *******************
+[0m
+[0;32mI (8177) main: ADC READING: 0
+[0m
+[0;32mI (8178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8179) main: error_count: 0
+[0m
+[0;32mI (8276) main: *******************
+[0m
+[0;32mI (8277) main: ADC READING: 0
+[0m
+[0;32mI (8278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8279) main: error_count: 0
+[0m
+[0;32mI (8376) main: *******************
+[0m
+[0;32mI (8377) main: ADC READING: 0
+[0m
+[0;32mI (8378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8379) main: error_count: 0
+[0m
+[0;32mI (8476) main: *******************
+[0m
+[0;32mI (8477) main: ADC READING: 0
+[0m
+[0;32mI (8478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8479) main: error_count: 0
+[0m
+[0;32mI (8576) main: *******************
+[0m
+[0;32mI (8577) main: ADC READING: 0
+[0m
+[0;32mI (8578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8579) main: error_count: 0
+[0m
+[0;32mI (8676) main: *******************
+[0m
+[0;32mI (8677) main: ADC READING: 0
+[0m
+[0;32mI (8678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8679) main: error_count: 0
+[0m
+[0;32mI (8776) main: *******************
+[0m
+[0;32mI (8777) main: ADC READING: 0
+[0m
+[0;32mI (8778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8779) main: error_count: 0
+[0m
+[0;32mI (8876) main: *******************
+[0m
+[0;32mI (8877) main: ADC READING: 0
+[0m
+[0;32mI (8878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8879) main: error_count: 0
+[0m
+[0;32mI (8976) main: *******************
+[0m
+[0;32mI (8977) main: ADC READING: 0
+[0m
+[0;32mI (8978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (8979) main: error_count: 0
+[0m
+[0;32mI (9076) main: *******************
+[0m
+[0;32mI (9077) main: ADC READING: 0
+[0m
+[0;32mI (9078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9079) main: error_count: 0
+[0m
+[0;32mI (9176) main: *******************
+[0m
+[0;32mI (9177) main: ADC READING: 0
+[0m
+[0;32mI (9178) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9179) main: error_count: 0
+[0m
+[0;32mI (9276) main: *******************
+[0m
+[0;32mI (9277) main: ADC READING: 0
+[0m
+[0;32mI (9278) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9279) main: error_count: 0
+[0m
+[0;32mI (9376) main: *******************
+[0m
+[0;32mI (9377) main: ADC READING: 0
+[0m
+[0;32mI (9378) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9379) main: error_count: 0
+[0m
+[0;32mI (9476) main: *******************
+[0m
+[0;32mI (9477) main: ADC READING: 0
+[0m
+[0;32mI (9478) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9479) main: error_count: 0
+[0m
+[0;32mI (9576) main: *******************
+[0m
+[0;32mI (9577) main: ADC READING: 0
+[0m
+[0;32mI (9578) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9579) main: error_count: 0
+[0m
+[0;32mI (9676) main: *******************
+[0m
+[0;32mI (9677) main: ADC READING: 0
+[0m
+[0;32mI (9678) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9679) main: error_count: 0
+[0m
+[0;32mI (9776) main: *******************
+[0m
+[0;32mI (9777) main: ADC READING: 0
+[0m
+[0;32mI (9778) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9779) main: error_count: 0
+[0m
+[0;32mI (9876) main: *******************
+[0m
+[0;32mI (9877) main: ADC READING: 0
+[0m
+[0;32mI (9878) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9879) main: error_count: 0
+[0m
+[0;32mI (9976) main: *******************
+[0m
+[0;32mI (9977) main: ADC READING: 0
+[0m
+[0;32mI (9978) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (9979) main: error_count: 0
+[0m
+[0;32mI (10076) main: *******************
+[0m
+[0;32mI (10077) main: ADC READING: 0
+[0m
+[0;32mI (10078) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10080) main: error_count: 0
+[0m
+[0;32mI (10187) main: *******************
+[0m
+[0;32mI (10188) main: ADC READING: 0
+[0m
+[0;32mI (10189) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10191) main: error_count: 0
+[0m
+[0;32mI (10297) main: *******************
+[0m
+[0;32mI (10298) main: ADC READING: 0
+[0m
+[0;32mI (10299) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10301) main: error_count: 0
+[0m
+[0;32mI (10407) main: *******************
+[0m
+[0;32mI (10408) main: ADC READING: 0
+[0m
+[0;32mI (10409) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10411) main: error_count: 0
+[0m
+[0;32mI (10517) main: *******************
+[0m
+[0;32mI (10518) main: ADC READING: 0
+[0m
+[0;32mI (10519) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10521) main: error_count: 0
+[0m
+[0;32mI (10627) main: *******************
+[0m
+[0;32mI (10628) main: ADC READING: 0
+[0m
+[0;32mI (10629) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10631) main: error_count: 0
+[0m
+[0;32mI (10737) main: *******************
+[0m
+[0;32mI (10738) main: ADC READING: 0
+[0m
+[0;32mI (10739) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10741) main: error_count: 0
+[0m
+[0;32mI (10847) main: *******************
+[0m
+[0;32mI (10848) main: ADC READING: 0
+[0m
+[0;32mI (10849) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10851) main: error_count: 0
+[0m
+[0;32mI (10957) main: *******************
+[0m
+[0;32mI (10958) main: ADC READING: 0
+[0m
+[0;32mI (10959) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (10961) main: error_count: 0
+[0m
+[0;32mI (11067) main: *******************
+[0m
+[0;32mI (11068) main: ADC READING: 0
+[0m
+[0;32mI (11069) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11071) main: error_count: 0
+[0m
+[0;32mI (11177) main: *******************
+[0m
+[0;32mI (11178) main: ADC READING: 0
+[0m
+[0;32mI (11179) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11181) main: error_count: 0
+[0m
+[0;32mI (11287) main: *******************
+[0m
+[0;32mI (11288) main: ADC READING: 0
+[0m
+[0;32mI (11289) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11291) main: error_count: 0
+[0m
+[0;32mI (11397) main: *******************
+[0m
+[0;32mI (11398) main: ADC READING: 0
+[0m
+[0;32mI (11399) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11401) main: error_count: 0
+[0m
+[0;32mI (11507) main: *******************
+[0m
+[0;32mI (11508) main: ADC READING: 0
+[0m
+[0;32mI (11509) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11511) main: error_count: 0
+[0m
+[0;32mI (11617) main: *******************
+[0m
+[0;32mI (11618) main: ADC READING: 0
+[0m
+[0;32mI (11619) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11621) main: error_count: 0
+[0m
+[0;32mI (11727) main: *******************
+[0m
+[0;32mI (11728) main: ADC READING: 0
+[0m
+[0;32mI (11729) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11731) main: error_count: 0
+[0m
+[0;32mI (11837) main: *******************
+[0m
+[0;32mI (11838) main: ADC READING: 0
+[0m
+[0;32mI (11839) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11841) main: error_count: 0
+[0m
+[0;32mI (11947) main: *******************
+[0m
+[0;32mI (11948) main: ADC READING: 0
+[0m
+[0;32mI (11949) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (11951) main: error_count: 0
+[0m
+[0;32mI (12057) main: *******************
+[0m
+[0;32mI (12058) main: ADC READING: 0
+[0m
+[0;32mI (12059) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12061) main: error_count: 0
+[0m
+[0;32mI (12167) main: *******************
+[0m
+[0;32mI (12168) main: ADC READING: 0
+[0m
+[0;32mI (12169) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12171) main: error_count: 0
+[0m
+[0;32mI (12277) main: *******************
+[0m
+[0;32mI (12278) main: ADC READING: 0
+[0m
+[0;32mI (12279) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12281) main: error_count: 0
+[0m
+[0;32mI (12387) main: *******************
+[0m
+[0;32mI (12388) main: ADC READING: 0
+[0m
+[0;32mI (12389) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12391) main: error_count: 0
+[0m
+[0;32mI (12497) main: *******************
+[0m
+[0;32mI (12498) main: ADC READING: 0
+[0m
+[0;32mI (12499) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12501) main: error_count: 0
+[0m
+[0;32mI (12607) main: *******************
+[0m
+[0;32mI (12608) main: ADC READING: 0
+[0m
+[0;32mI (12609) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12611) main: error_count: 0
+[0m
+[0;32mI (12717) main: *******************
+[0m
+[0;32mI (12718) main: ADC READING: 0
+[0m
+[0;32mI (12719) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12721) main: error_count: 0
+[0m
+[0;32mI (12827) main: *******************
+[0m
+[0;32mI (12828) main: ADC READING: 0
+[0m
+[0;32mI (12829) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12831) main: error_count: 0
+[0m
+[0;32mI (12937) main: *******************
+[0m
+[0;32mI (12938) main: ADC READING: 0
+[0m
+[0;32mI (12939) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (12941) main: error_count: 0
+[0m
+[0;32mI (13047) main: *******************
+[0m
+[0;32mI (13048) main: ADC READING: 0
+[0m
+[0;32mI (13049) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13051) main: error_count: 0
+[0m
+[0;32mI (13157) main: *******************
+[0m
+[0;32mI (13158) main: ADC READING: 0
+[0m
+[0;32mI (13159) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13161) main: error_count: 0
+[0m
+[0;32mI (13267) main: *******************
+[0m
+[0;32mI (13268) main: ADC READING: 0
+[0m
+[0;32mI (13269) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13271) main: error_count: 0
+[0m
+[0;32mI (13377) main: *******************
+[0m
+[0;32mI (13378) main: ADC READING: 0
+[0m
+[0;32mI (13379) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13381) main: error_count: 0
+[0m
+[0;32mI (13487) main: *******************
+[0m
+[0;32mI (13488) main: ADC READING: 0
+[0m
+[0;32mI (13489) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13491) main: error_count: 0
+[0m
+[0;32mI (13597) main: *******************
+[0m
+[0;32mI (13598) main: ADC READING: 0
+[0m
+[0;32mI (13599) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13601) main: error_count: 0
+[0m
+[0;32mI (13707) main: *******************
+[0m
+[0;32mI (13708) main: ADC READING: 0
+[0m
+[0;32mI (13709) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13711) main: error_count: 0
+[0m
+[0;32mI (13817) main: *******************
+[0m
+[0;32mI (13818) main: ADC READING: 0
+[0m
+[0;32mI (13819) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13821) main: error_count: 0
+[0m
+[0;32mI (13927) main: *******************
+[0m
+[0;32mI (13928) main: ADC READING: 0
+[0m
+[0;32mI (13929) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (13931) main: error_count: 0
+[0m
+[0;32mI (14037) main: *******************
+[0m
+[0;32mI (14038) main: ADC READING: 0
+[0m
+[0;32mI (14039) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (14041) main: error_count: 0
+[0m
+[0;32mI (14147) main: *******************
+[0m
+[0;32mI (14148) main: ADC READING: 0
+[0m
+[0;32mI (14149) main: ADC READING VOLTAGE: 
+[0m
+[0;32mI (14151) main: error_count: 0
+[0m
+[0;32mI (14257) 
